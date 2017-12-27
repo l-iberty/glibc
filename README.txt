@@ -1,1 +1,1 @@
-Ô´ÂëÏÂÔØ£ºhttp://ftp.gnu.org/gnu/libc/
+ä¸‹è½½åœ°å€: http://ftp.gnu.org/gnu/libc/
